@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 236" width="1000" height="236" role="img" aria-label="musicaholic">
+<defs>
+<linearGradient id="cs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="cs0"/><stop offset="1" class="cs1"/></linearGradient>
+<linearGradient id="bars" gradientUnits="userSpaceOnUse" x1="56" y1="0" x2="944" y2="0"><stop offset="0" class="cs0"/><stop offset="1" class="cs1"/></linearGradient>
+</defs>
+<style>
+.cf{fill:#7C3AED;fill-opacity:.05}
+.cs0{stop-color:#7C3AED}.cs1{stop-color:#2563EB}
+.t1{fill:#1E1B4B}.t2{fill:#4B5563}.t3{fill:#5B21B6}
+.hair{stroke:#7C3AED;stroke-opacity:.2;stroke-width:1}
+.p0{stroke:#7C3AED;fill:#7C3AED;fill-opacity:.08;stroke-opacity:.7}
+.p1{stroke:#2563EB;fill:#2563EB;fill-opacity:.08;stroke-opacity:.7}
+.q0{fill:#5B21B6}.q1{fill:#1D4ED8}
+.dot{fill:#2563EB}.gl{stroke:#4C1D95}
+@media (prefers-color-scheme: dark){
+.cf{fill:#8B5CF6;fill-opacity:.08}
+.cs0{stop-color:#8B5CF6}.cs1{stop-color:#3B82F6}
+.t1{fill:#E0E7FF}.t2{fill:#A9B0CF}.t3{fill:#A5B4FC}
+.hair{stroke:#A5B4FC;stroke-opacity:.16}
+.p0{stroke:#A78BFA;fill:#8B5CF6}.p1{stroke:#60A5FA;fill:#3B82F6}
+.q0{fill:#DDD6FE}.q1{fill:#BFDBFE}
+.dot{fill:#60A5FA}.gl{stroke:#E0E7FF}}
+.gl{fill:none;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:36 4000;animation:g 7s ease-in-out infinite}
+@keyframes g{0%{stroke-dashoffset:36}65%,100%{stroke-dashoffset:-1200}}
+.pu{animation:pu 2.6s ease-in-out infinite}
+@keyframes pu{0%,100%{opacity:.35}50%{opacity:1}}
+.ar{animation:ar 2.4s ease-in-out infinite}
+@keyframes ar{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+
+.b{transform-box:fill-box;transform-origin:50% 100%;animation-iteration-count:infinite;animation-timing-function:ease-in-out}
+.e1{animation-name:e1}.e2{animation-name:e2}.e3{animation-name:e3}
+@keyframes e1{0%,100%{transform:scaleY(.18)}35%{transform:scaleY(1)}60%{transform:scaleY(.45)}80%{transform:scaleY(.8)}}
+@keyframes e2{0%,100%{transform:scaleY(.3)}25%{transform:scaleY(.75)}50%{transform:scaleY(.2)}75%{transform:scaleY(1)}}
+@keyframes e3{0%,100%{transform:scaleY(.12)}40%{transform:scaleY(.6)}55%{transform:scaleY(.95)}85%{transform:scaleY(.3)}}
+@media (prefers-reduced-motion: reduce){.b{animation:none;transform:scaleY(.6)}}
+</style>
+<rect x=".5" y=".5" width="999" height="235" rx="20" class="cf"/>
+<rect x=".5" y=".5" width="999" height="235" rx="20" fill="none" stroke="url(#cs)" stroke-opacity=".55"/>
+<path class="gl" d="M26 .5 L974 .5"/>
+<text x="56" y="54" class="t3" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3" >ON REPEAT</text>
+<text x="56" y="100" class="t1" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="34">musicaholic</text>
+<text x="944" y="54" text-anchor="end" class="t2" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="15">always something playing</text>
+<rect class="b e2" x="56.0" y="184.0" width="6" height="14.0" rx="3" fill="url(#bars)" style="animation-duration:1.42s;animation-delay:-1.85s"/>
+<rect class="b e3" x="70.5" y="181.8" width="6" height="16.2" rx="3" fill="url(#bars)" style="animation-duration:1.74s;animation-delay:-0.38s"/>
+<rect class="b e2" x="84.9" y="179.2" width="6" height="18.8" rx="3" fill="url(#bars)" style="animation-duration:1.48s;animation-delay:-0.37s"/>
+<rect class="b e3" x="99.4" y="177.1" width="6" height="20.9" rx="3" fill="url(#bars)" style="animation-duration:0.90s;animation-delay:-1.62s"/>
+<rect class="b e2" x="113.8" y="173.0" width="6" height="25.0" rx="3" fill="url(#bars)" style="animation-duration:1.45s;animation-delay:-0.79s"/>
+<rect class="b e1" x="128.3" y="169.9" width="6" height="28.1" rx="3" fill="url(#bars)" style="animation-duration:1.48s;animation-delay:-0.31s"/>
+<rect class="b e1" x="142.8" y="165.7" width="6" height="32.3" rx="3" fill="url(#bars)" style="animation-duration:0.87s;animation-delay:-0.07s"/>
+<rect class="b e3" x="157.2" y="164.3" width="6" height="33.7" rx="3" fill="url(#bars)" style="animation-duration:1.66s;animation-delay:-0.65s"/>
+<rect class="b e2" x="171.7" y="159.1" width="6" height="38.9" rx="3" fill="url(#bars)" style="animation-duration:1.37s;animation-delay:-1.28s"/>
+<rect class="b e2" x="186.1" y="164.6" width="6" height="33.4" rx="3" fill="url(#bars)" style="animation-duration:0.89s;animation-delay:-1.31s"/>
+<rect class="b e3" x="200.6" y="151.0" width="6" height="47.0" rx="3" fill="url(#bars)" style="animation-duration:1.90s;animation-delay:-1.68s"/>
+<rect class="b e1" x="215.0" y="157.2" width="6" height="40.8" rx="3" fill="url(#bars)" style="animation-duration:1.63s;animation-delay:-1.03s"/>
+<rect class="b e2" x="229.5" y="157.4" width="6" height="40.6" rx="3" fill="url(#bars)" style="animation-duration:1.64s;animation-delay:-0.80s"/>
+<rect class="b e1" x="244.0" y="150.5" width="6" height="47.5" rx="3" fill="url(#bars)" style="animation-duration:1.85s;animation-delay:-1.69s"/>
+<rect class="b e2" x="258.4" y="151.0" width="6" height="47.0" rx="3" fill="url(#bars)" style="animation-duration:1.82s;animation-delay:-0.10s"/>
+<rect class="b e3" x="272.9" y="135.9" width="6" height="62.1" rx="3" fill="url(#bars)" style="animation-duration:1.24s;animation-delay:-0.15s"/>
+<rect class="b e2" x="287.3" y="147.1" width="6" height="50.9" rx="3" fill="url(#bars)" style="animation-duration:1.54s;animation-delay:-0.67s"/>
+<rect class="b e1" x="301.8" y="142.7" width="6" height="55.3" rx="3" fill="url(#bars)" style="animation-duration:1.86s;animation-delay:-1.52s"/>
+<rect class="b e2" x="316.3" y="144.7" width="6" height="53.3" rx="3" fill="url(#bars)" style="animation-duration:1.58s;animation-delay:-0.02s"/>
+<rect class="b e2" x="330.7" y="129.5" width="6" height="68.5" rx="3" fill="url(#bars)" style="animation-duration:1.00s;animation-delay:-1.12s"/>
+<rect class="b e2" x="345.2" y="133.7" width="6" height="64.3" rx="3" fill="url(#bars)" style="animation-duration:1.88s;animation-delay:-1.54s"/>
+<rect class="b e1" x="359.6" y="129.1" width="6" height="68.9" rx="3" fill="url(#bars)" style="animation-duration:0.93s;animation-delay:-0.84s"/>
+<rect class="b e3" x="374.1" y="142.0" width="6" height="56.0" rx="3" fill="url(#bars)" style="animation-duration:1.75s;animation-delay:-1.95s"/>
+<rect class="b e2" x="388.6" y="133.9" width="6" height="64.1" rx="3" fill="url(#bars)" style="animation-duration:1.77s;animation-delay:-0.42s"/>
+<rect class="b e1" x="403.0" y="116.5" width="6" height="81.5" rx="3" fill="url(#bars)" style="animation-duration:1.46s;animation-delay:-1.15s"/>
+<rect class="b e3" x="417.5" y="115.4" width="6" height="82.6" rx="3" fill="url(#bars)" style="animation-duration:1.03s;animation-delay:-0.52s"/>
+<rect class="b e1" x="431.9" y="130.5" width="6" height="67.5" rx="3" fill="url(#bars)" style="animation-duration:1.13s;animation-delay:-0.15s"/>
+<rect class="b e2" x="446.4" y="132.9" width="6" height="65.1" rx="3" fill="url(#bars)" style="animation-duration:1.50s;animation-delay:-0.03s"/>
+<rect class="b e2" x="460.9" y="128.3" width="6" height="69.7" rx="3" fill="url(#bars)" style="animation-duration:1.30s;animation-delay:-1.92s"/>
+<rect class="b e3" x="475.3" y="116.4" width="6" height="81.6" rx="3" fill="url(#bars)" style="animation-duration:0.95s;animation-delay:-0.77s"/>
+<rect class="b e1" x="489.8" y="133.3" width="6" height="64.7" rx="3" fill="url(#bars)" style="animation-duration:1.80s;animation-delay:-1.64s"/>
+<rect class="b e3" x="504.2" y="118.9" width="6" height="79.1" rx="3" fill="url(#bars)" style="animation-duration:0.97s;animation-delay:-1.26s"/>
+<rect class="b e3" x="518.7" y="132.4" width="6" height="65.6" rx="3" fill="url(#bars)" style="animation-duration:1.85s;animation-delay:-1.76s"/>
+<rect class="b e3" x="533.1" y="135.7" width="6" height="62.3" rx="3" fill="url(#bars)" style="animation-duration:0.85s;animation-delay:-0.22s"/>
+<rect class="b e2" x="547.6" y="114.2" width="6" height="83.8" rx="3" fill="url(#bars)" style="animation-duration:1.06s;animation-delay:-1.41s"/>
+<rect class="b e3" x="562.1" y="128.3" width="6" height="69.7" rx="3" fill="url(#bars)" style="animation-duration:1.80s;animation-delay:-0.98s"/>
+<rect class="b e1" x="576.5" y="135.0" width="6" height="63.0" rx="3" fill="url(#bars)" style="animation-duration:1.59s;animation-delay:-0.14s"/>
+<rect class="b e1" x="591.0" y="128.7" width="6" height="69.3" rx="3" fill="url(#bars)" style="animation-duration:1.52s;animation-delay:-1.23s"/>
+<rect class="b e1" x="605.4" y="134.5" width="6" height="63.5" rx="3" fill="url(#bars)" style="animation-duration:1.81s;animation-delay:-0.41s"/>
+<rect class="b e1" x="619.9" y="140.5" width="6" height="57.5" rx="3" fill="url(#bars)" style="animation-duration:1.25s;animation-delay:-0.50s"/>
+<rect class="b e1" x="634.4" y="139.3" width="6" height="58.7" rx="3" fill="url(#bars)" style="animation-duration:1.21s;animation-delay:-1.14s"/>
+<rect class="b e2" x="648.8" y="142.5" width="6" height="55.5" rx="3" fill="url(#bars)" style="animation-duration:0.95s;animation-delay:-0.90s"/>
+<rect class="b e1" x="663.3" y="132.4" width="6" height="65.6" rx="3" fill="url(#bars)" style="animation-duration:1.56s;animation-delay:-1.17s"/>
+<rect class="b e2" x="677.7" y="135.8" width="6" height="62.2" rx="3" fill="url(#bars)" style="animation-duration:1.82s;animation-delay:-0.95s"/>
+<rect class="b e3" x="692.2" y="135.8" width="6" height="62.2" rx="3" fill="url(#bars)" style="animation-duration:1.86s;animation-delay:-0.04s"/>
+<rect class="b e1" x="706.7" y="149.4" width="6" height="48.6" rx="3" fill="url(#bars)" style="animation-duration:0.87s;animation-delay:-0.62s"/>
+<rect class="b e3" x="721.1" y="135.5" width="6" height="62.5" rx="3" fill="url(#bars)" style="animation-duration:0.88s;animation-delay:-1.09s"/>
+<rect class="b e1" x="735.6" y="153.7" width="6" height="44.3" rx="3" fill="url(#bars)" style="animation-duration:1.83s;animation-delay:-1.47s"/>
+<rect class="b e3" x="750.0" y="144.5" width="6" height="53.5" rx="3" fill="url(#bars)" style="animation-duration:1.81s;animation-delay:-0.70s"/>
+<rect class="b e1" x="764.5" y="151.8" width="6" height="46.2" rx="3" fill="url(#bars)" style="animation-duration:0.89s;animation-delay:-1.71s"/>
+<rect class="b e2" x="779.0" y="149.4" width="6" height="48.6" rx="3" fill="url(#bars)" style="animation-duration:1.43s;animation-delay:-1.25s"/>
+<rect class="b e1" x="793.4" y="158.1" width="6" height="39.9" rx="3" fill="url(#bars)" style="animation-duration:0.81s;animation-delay:-0.14s"/>
+<rect class="b e3" x="807.9" y="158.0" width="6" height="40.0" rx="3" fill="url(#bars)" style="animation-duration:1.89s;animation-delay:-1.76s"/>
+<rect class="b e2" x="822.3" y="163.9" width="6" height="34.1" rx="3" fill="url(#bars)" style="animation-duration:1.83s;animation-delay:-1.39s"/>
+<rect class="b e3" x="836.8" y="165.6" width="6" height="32.4" rx="3" fill="url(#bars)" style="animation-duration:1.72s;animation-delay:-0.17s"/>
+<rect class="b e1" x="851.2" y="171.2" width="6" height="26.8" rx="3" fill="url(#bars)" style="animation-duration:1.46s;animation-delay:-0.96s"/>
+<rect class="b e3" x="865.7" y="168.2" width="6" height="29.8" rx="3" fill="url(#bars)" style="animation-duration:0.92s;animation-delay:-1.56s"/>
+<rect class="b e2" x="880.2" y="171.8" width="6" height="26.2" rx="3" fill="url(#bars)" style="animation-duration:1.08s;animation-delay:-0.02s"/>
+<rect class="b e2" x="894.6" y="177.6" width="6" height="20.4" rx="3" fill="url(#bars)" style="animation-duration:1.47s;animation-delay:-1.04s"/>
+<rect class="b e2" x="909.1" y="178.8" width="6" height="19.2" rx="3" fill="url(#bars)" style="animation-duration:1.29s;animation-delay:-1.78s"/>
+<rect class="b e1" x="923.5" y="181.8" width="6" height="16.2" rx="3" fill="url(#bars)" style="animation-duration:1.08s;animation-delay:-1.27s"/>
+<rect class="b e2" x="938.0" y="184.0" width="6" height="14.0" rx="3" fill="url(#bars)" style="animation-duration:1.22s;animation-delay:-1.17s"/>
+
+<line x1="56" y1="206" x2="944" y2="206" class="hair"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 364" width="1000" height="364" role="img" aria-label="About">
+<defs><linearGradient id="cs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="cs0"/><stop offset="1" class="cs1"/></linearGradient></defs>
+<style>
+.cf{fill:#7C3AED;fill-opacity:.05}
+.cs0{stop-color:#7C3AED}.cs1{stop-color:#2563EB}
+.t1{fill:#1E1B4B}.t2{fill:#4B5563}.t3{fill:#5B21B6}
+.hair{stroke:#7C3AED;stroke-opacity:.2;stroke-width:1}
+.p0{stroke:#7C3AED;fill:#7C3AED;fill-opacity:.08;stroke-opacity:.7}
+.p1{stroke:#2563EB;fill:#2563EB;fill-opacity:.08;stroke-opacity:.7}
+.q0{fill:#5B21B6}.q1{fill:#1D4ED8}
+.dot{fill:#2563EB}.gl{stroke:#4C1D95}
+@media (prefers-color-scheme: dark){
+.cf{fill:#8B5CF6;fill-opacity:.08}
+.cs0{stop-color:#8B5CF6}.cs1{stop-color:#3B82F6}
+.t1{fill:#E0E7FF}.t2{fill:#A9B0CF}.t3{fill:#A5B4FC}
+.hair{stroke:#A5B4FC;stroke-opacity:.16}
+.p0{stroke:#A78BFA;fill:#8B5CF6}.p1{stroke:#60A5FA;fill:#3B82F6}
+.q0{fill:#DDD6FE}.q1{fill:#BFDBFE}
+.dot{fill:#60A5FA}.gl{stroke:#E0E7FF}}
+.gl{fill:none;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:36 4000;animation:g 7s ease-in-out infinite}
+@keyframes g{0%{stroke-dashoffset:36}65%,100%{stroke-dashoffset:-1200}}
+.pu{animation:pu 2.6s ease-in-out infinite}
+@keyframes pu{0%,100%{opacity:.35}50%{opacity:1}}
+.ar{animation:ar 2.4s ease-in-out infinite}
+@keyframes ar{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+</style>
+<rect x=".5" y=".5" width="999" height="363" rx="20" class="cf"/>
+<rect x=".5" y=".5" width="999" height="363" rx="20" fill="none" stroke="url(#cs)" stroke-opacity=".55"/>
+<path class="gl" d="M26 .5 L974 .5"/>
+<text x="56" y="70" class="t3" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3" >ROLE</text><text x="270" y="71" class="t1" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" font-weight="400">Systems Engineering student</text><line x1="56" y1="95" x2="944" y2="95" class="hair"/><text x="56" y="120" class="t3" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3" >UNIVERSITY</text><text x="270" y="121" class="t1" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" font-weight="400">Universidad Distrital Francisco José de Caldas</text><line x1="56" y1="145" x2="944" y2="145" class="hair"/><text x="56" y="170" class="t3" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3" >LOCATION</text><text x="270" y="171" class="t1" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" font-weight="400">Bogotá, Colombia</text><line x1="56" y1="195" x2="944" y2="195" class="hair"/><text x="56" y="220" class="t3" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3" >FOCUS</text><text x="270" y="221" class="t1" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" font-weight="400">Cybersecurity</text><line x1="56" y1="245" x2="944" y2="245" class="hair"/><text x="56" y="270" class="t3" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3" >STATUS</text><circle cx="274" cy="264" r="4" class="dot pu"/><text x="290" y="271" class="t1" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" font-weight="400">Exploring broadly, building small projects across the stack</text><line x1="56" y1="295" x2="944" y2="295" class="hair"/><text x="56" y="320" class="t3" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3" >OFF SCREEN</text><text x="270" y="321" class="t1" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" font-weight="400">Music, constantly</text>
+</svg>
