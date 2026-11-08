@@ -14,7 +14,7 @@
 
 <div align="center"><img src="./assets/stack.svg" width="100%" alt="Stack" /></div>
 
-<div align="center"><img src="./assets/card-stack.svg" width="100%" alt="Java, Python, Git, GitHub, Jupyter. Exploring cybersecurity." /></div>
+<div align="center"><img src="./assets/card-stack.svg" width="100%" alt="Java, Python, Git, GitHub, Jupyter." /></div>
 
 <br/>
 
